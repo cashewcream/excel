@@ -1,4 +1,5 @@
-/* The dataset for the bike sales dashboard can be found at https://github.com/AlexTheAnalyst/Excel-Tutorial/blob/main/Excel%20Project%20Dataset.xlsx */
+The dataset for the bike sales dashboard can be found at 
+https://github.com/AlexTheAnalyst/Excel-Tutorial/blob/main/Excel%20Project%20Dataset.xlsx
 
 #Copied raw data and created a working sheet.
 #Cleaned the dataset by removal of duplicates and replacing abbreviations for marital status and gender.
